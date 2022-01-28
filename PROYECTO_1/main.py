@@ -1,12 +1,3 @@
-from dataclasses import field
-from http import client
-from operator import index
-import sys
-from turtle import position
-from unicodedata import name
-
-from importlib_metadata import email
-
 clients = [
     {
         'name': 'pablo',
