@@ -1,3 +1,6 @@
+import sys
+
+
 clients = [
     {
         'name': 'pablo',
